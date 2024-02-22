@@ -1,3 +1,6 @@
+
+![Simulator Screenshot - iPhone 15 - 2024-02-22 at 23 06 56](https://github.com/MyMerkur/react-native_StoreApp/assets/116354050/1002115b-0ddc-4540-823c-ee740e969595)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
